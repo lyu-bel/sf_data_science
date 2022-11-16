@@ -1,4 +1,4 @@
-#guess the number РАБОЧАЯ ВЕРСИЯ БЕЗ ОГРАНИЧЕНИЙ ПО ДИАПАЗОНУ
+#guess the number РАБОЧАЯ ВЕРСИЯ
 import numpy as np
 n = 100
 number = np.random.randint(1, n+1) # загадываем число
