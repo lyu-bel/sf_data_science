@@ -1,4 +1,4 @@
-#guess the number РАБОЧАЯ ВЕРСИЯ
+#guess the number
 import numpy as np
 n = 100
 number = np.random.randint(1, n+1) # загадываем число
