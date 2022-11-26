@@ -28,9 +28,9 @@
 - выбран алгоритм бинарного поиска для реализации поставленной задачи
 - написание кода по  выбранному алгоритму
 - 1 вариант: бинарный поиск
-https://github.com/lyu-bel/sf_data_science/blob/main/Project0/guess_the_number_binary_search.py
+https://github.com/lyu-bel/sf_data_science/blob/08f7c559e7fc40addcb4f03fc611eb40d161440b/Project0/guess_the_number_binary_search_scores.py
 - 2 вариант: бинарный поиск с использованием рекурсии
-https://github.com/lyu-bel/sf_data_science/blob/main/Project0/binary_search_rec.py
+https://github.com/lyu-bel/sf_data_science/blob/08f7c559e7fc40addcb4f03fc611eb40d161440b/Project0/guess_the_number_binary_search_rec_scores.py
 
 ### Выводы
 Реализован широко известный алгоритм бинарного поиска, написана программа, которая угадывает число не более, чем за 7 попыток в среднем при 1000 повторений в двух вариантах
