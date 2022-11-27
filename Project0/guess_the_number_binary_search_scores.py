@@ -1,5 +1,5 @@
-def binary_search(number,count, low, high): #Бинарный поиск с циклом 1000 прохождений
-    
+# Вызов функции бинарного поиска
+def binary_search(number,count, low, high):
     while low <= high:
         count += 1
         mid = (low+high) //2

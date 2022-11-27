@@ -1,4 +1,4 @@
-# Вызо функции бинарного поиска с рекурсией
+# Вызов функции бинарного поиска с рекурсией
 def binary_search_rec(number, count, low, high):
     mid = (low+high)//2
     count += 1  
@@ -15,7 +15,7 @@ def binary_search_rec(number, count, low, high):
       return binary_search_rec(number, count, low, high)
 
 
-# Вызов функции нахождения количества попыток в среднем из 1000 подходов угадывает наш алгоритм
+# Вызов функции нахождения среднего количества попыток угадывания числа за 1000 подходов
 def score_game(binary_search_rec) -> int:
     n=100    # верхняя граница значений
     count=0  # счетчик кол-во попыток начальное значение
